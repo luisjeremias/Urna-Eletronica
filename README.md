@@ -2,6 +2,7 @@
 
 é um simulador de urna eletronica que é usada para votar
 ![Urna Eletronica!](img.jpg "Urna Eletronica")
+![URNAELETRONICA](https://github.com/luisjeremias/Urna-Eletronica/blob/master/img.jpg?raw=true)
 ### Como Instalar?
 
 
@@ -13,7 +14,7 @@ git clone https://github.com/luisjeremias/Urna-Eletronica
 
 
 foi feito em javascript seguindo o tutorial do Bonieky Lacerda no youtube
-link do video:
+link do video: https://www.youtube.com/watch?v=hF_VMWnsY00&t=3125s
 
 ### Como Funciona?
 
