@@ -1,8 +1,7 @@
 # URNA ELETRONICA
 
 é um simulador de urna eletronica que é usada para votar
-![Urna Eletronica!](img.jpg "Urna Eletronica")
-![URNAELETRONICA](https://github.com/luisjeremias/Urna-Eletronica/blob/master/img.jpg?raw=true)
+![imagem urna](https://github.com/luisjeremias/Urna-Eletronica/blob/master/img.JPG?raw=true)
 ### Como Instalar?
 
 
