@@ -6,7 +6,7 @@
 
 
 voce pode usar este projeto digitando no seu cmd:
-git clone https://github.com/luisjeremias/urna-eletronica
+git clone https://github.com/luisjeremias/Urna-Eletronica
 
 
 ### Como Foi Feito?
